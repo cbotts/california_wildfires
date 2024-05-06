@@ -21,4 +21,4 @@ SARIMA and ARIMA models were built and compared for the best predictive capabili
 
 ## Conclusion 
 Results for the number of acres burned are the most accurate when modeled as a monthly aggregation. 
-This model is limited and has weak predictiave power. It is recommended to supplement the dataset with additional features, specifically weather data to improve predicitive power.
+This model is limited and has weak predictive power. It is recommended to supplement the dataset with additional features, specifically weather data to improve predictive power.
