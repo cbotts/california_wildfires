@@ -6,7 +6,7 @@ Use time series analysis to predict the numbers of acres that will burn from wil
 
 ## How to Run 
 ```
-gh repo clone cbotts/california_wildfires
+git clone https://github.com/cbotts/california_wildfires/tree/main
 jupyter notebook Botts_Project1.ipynb
 ```
 
